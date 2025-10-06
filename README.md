@@ -43,7 +43,7 @@ Actualmente estudio Análisis y Desarrollo de Software (ADSO) en el SENA, con el
 ## 📫 Contacto
 
 - 🌍 Portafolio web: próximamente  
-- 💼 LinkedIn: linkedin.com/in/kenny-rivera-22ba782b2
+- 💼 LinkedIn: [[linkedin.com/in/kenny-rivera-22ba782b2](https://www.linkedin.com/in/kenny-rivera-22ba782b2/)](#)  
 - 📧 Email: kennyrivera102@gmail.com  
 - 💻 GitHub: [github.com/kennylocal](https://github.com/kennylocal)
 
